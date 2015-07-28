@@ -1,4 +1,3 @@
-
 defmodule SpacedRepetitions.Mixfile do
 
   use Mix.Project

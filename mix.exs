@@ -2,7 +2,7 @@ defmodule SpacedRepetitions.Mixfile do
 
   use Mix.Project
 
-  @description "Rough impl of SM2 in Elixir"
+  @description "Spaced repetitions library with basic sm2 implementation"
 
   @package [
     files: [ "lib", "mix.exs", "README.md", "LICENSE.md"],

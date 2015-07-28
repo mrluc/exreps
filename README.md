@@ -30,6 +30,11 @@ end
 
 ### Todos
 
+The default 1-day/6-day jumps from SM2 need to be tested.
+
+We should cap how far out SM2 can push the next repetition date, and make
+this configurable.
+
 We should probably use a protocol, with an implementation for our Fact struct.
 
 We should probably think about whether practical concerns found in most spaced reps
